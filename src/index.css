@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-sage-green: #8b9d83;
+  --color-light-brown: #c4a57b;
+  --color-off-white: #faf9f6;
+  --color-text-dark: #2c2c2c;
+  --color-text-light: #666666;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-off-white text-text-dark font-sans antialiased;
+  }
+}
+
+@layer components {
+  .cta-button {
+    @apply inline-block px-10 py-4 bg-light-brown text-white no-underline rounded-sm text-lg transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg;
+  }
+}
