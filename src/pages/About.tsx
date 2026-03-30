@@ -23,10 +23,10 @@ export default function About() {
           <h2 className="text-2xl md:text-3xl font-bold text-light-brown">Mijn Verhaal</h2>
           <p className="text-base md:text-lg text-text-light leading-relaxed">
             Welkom! Ik ben Tara, de maker achter bytaar.
-            Mijn passie voor leerbewerking begon meer dan tien jaar geleden tijdens een reis door Italië, waar ik geïnspireerd raakte door de traditionele ambachtslieden in Florence.
+            Ik heb me altijd beziggehouden met allerlei creatieve bezigheden en ben gefascineerd door de combinatie van creativiteit en functionaliteit in leren tassen. Ik vind het mooi dat ik met mijn werk mensen blij kan maken met een product van een sterk en tijdloos materiaal.
           </p>
           <p className="text-base md:text-lg text-text-light leading-relaxed">
-            Wat startte als een hobby, groeide uit tot een levensstijl. Elke tas die ik maak, draagt een stukje van mijn ziel en vakmanschap. Ik geloof in slow fashion en tijdloze designs die generaties lang meegaan.
+           Met een opleiding in mijn broekzak als creatief vakman en stoffeerder werk ik nu als stoffeerder en heb ik mijn eigen bedrijf ByTaar, waar ik mijn passie voor leren tassen verder vormgeef.
           </p>
         </div>
       </div>
@@ -44,10 +44,10 @@ export default function About() {
         <div className="space-y-4 md:space-y-5 md:order-2">
           <h2 className="text-2xl md:text-3xl font-bold text-light-brown">Mijn Werkwijze</h2>
           <p className="text-base md:text-lg text-text-light leading-relaxed">
-            In mijn atelier in Wormerveer werk ik met de beste kwaliteit leer van Europese leveranciers. Elk stuk wordt zorgvuldig geselecteerd en met de hand bewerkt. Van het eerste ontwerp tot de laatste steek, elk detail krijgt mijn volledige aandacht.
+            Ik werk vanuit mijn werkkamer thuis, waar ik met de hand leren tassen maak. Ik kies leer dat mooi en stevig is, zodat de tassen lang meegaan. Van het eerste idee tot de laatste steek werk ik alles zelf uit, met aandacht voor detail en jouw wensen.
           </p>
           <p className="text-base md:text-lg text-text-light leading-relaxed">
-            Ik gebruik traditionele technieken gecombineerd met moderne inzichten om producten te creëren die zowel functioneel als mooi zijn. Duurzaamheid staat centraal in alles wat ik doe.
+            Ik blijf mezelf ontwikkelen en leer steeds nieuwe dingen. Bij elke tas kijk ik steeds weer naar wat iemand mooi vindt en wat goed bij diegene past.
           </p>
         </div>
         <img
@@ -63,7 +63,7 @@ export default function About() {
           Waarom Handgemaakt?
         </h2>
         <p className="text-lg text-text-light leading-relaxed max-w-2xl mx-auto">
-          In een wereld van massaproductie kies ik bewust voor het ambacht. Handgemaakte producten hebben een ziel, een verhaal en een kwaliteit die niet te evenaren is door machines. Elke tas is uniek, met kleine verschillen die het karakter bepalen.
+          Veel producten worden tegenwoordig in grote aantallen gemaakt, maar ik werk liever met de hand. Daardoor is elke tas uniek en zie je kleine verschillen die het persoonlijk maken.
         </p>
       </div>
     </motion.div>

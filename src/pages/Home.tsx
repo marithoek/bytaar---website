@@ -18,10 +18,10 @@ export default function Home() {
         />
         <div className="relative z-10 bg-black/40 p-8 md:p-20 rounded-lg text-center max-w-3xl mx-4">
           <h1 className="text-3xl md:text-5xl font-bold text-white mb-4 md:mb-5 drop-shadow-md">
-            Welkom bij Handgemaakte Leren Tassen
+            ByTaar
           </h1>
           <p className="text-lg md:text-2xl text-white mb-6 md:mb-8 drop-shadow-sm">
-            Unieke, duurzame tassen met aandacht voor detail
+            Ik maak tassen van leer, precies zoals jij ze wilt.
           </p>
           <Link to="/tassen" className="cta-button">
             Bekijk Collectie
@@ -31,13 +31,10 @@ export default function Home() {
 
       <section className="max-w-3xl mx-auto text-center px-4">
         <h2 className="text-3xl md:text-4xl font-bold text-sage-green mb-5">
-          Vakmanschap & Kwaliteit
+          Gemaakt door Tara Visser
         </h2>
         <p className="text-lg text-text-light leading-relaxed">
-          Elke tas wordt met de hand gemaakt van het beste leer. Ik creëer
-          tijdloze stukken die een leven lang meegaan. Van klassieke designs tot
-          moderne interpretaties, elke tas vertelt een verhaal van vakmanschap
-          en passie.
+          Ik maak leren tassen op maat, met de hand en veel passie. De tassen komen in allerlei stijlen en kleuren, waarbij personalisatie mogelijk is. Zo ontstaat er een tas die echt bij jou past en uniek is in zijn soort.
         </p>
       </section>
 
@@ -55,7 +52,7 @@ export default function Home() {
                 Handgemaakt
               </h3>
               <p className="text-text-light">
-                Elk stuk wordt zorgvuldig met de hand vervaardigd
+                Elk stuk wordt met de hand gemaakt
               </p>
             </div>
           </div>
@@ -71,7 +68,7 @@ export default function Home() {
                 Duurzaam Leer
               </h3>
               <p className="text-text-light">
-                Alleen het beste, verantwoord geproduceerde leer
+                Van echt, stevig leer
               </p>
             </div>
           </div>
