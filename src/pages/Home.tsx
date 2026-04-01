@@ -11,7 +11,7 @@ export default function Home() {
     >
       <section className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden flex items-center justify-center">
         <img
-          src="/images/banner3.webp"
+          src="/images/banner4.webp"
           alt="Leren tassen hero"
           className="absolute inset-0 w-full h-full object-cover z-0"
           referrerPolicy="no-referrer"
