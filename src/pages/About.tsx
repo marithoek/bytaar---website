@@ -14,7 +14,7 @@ export default function About() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center bg-white p-6 md:p-12 rounded-lg shadow-sm">
         <img
-          src="https://picsum.photos/seed/tara/600/800"
+          src="/images/about/profielfoto.jpeg"
           alt="Tara aan het werk"
           className="w-full h-auto rounded-lg object-cover shadow-md"
           referrerPolicy="no-referrer"
@@ -33,7 +33,7 @@ export default function About() {
 
       <div className="rounded-lg overflow-hidden h-[300px] md:h-[400px]">
         <img
-          src="https://picsum.photos/seed/atelier/1200/400"
+          src="/images/about/sfeer.jpeg"
           alt="Mijn atelier in Wormerveer"
           className="w-full h-full object-cover"
           referrerPolicy="no-referrer"
@@ -51,7 +51,7 @@ export default function About() {
           </p>
         </div>
         <img
-          src="https://picsum.photos/seed/workshop/600/800"
+          src="/images/about/werkwijze.jpeg"
           alt="Werkplek detail"
           className="w-full h-auto rounded-lg object-cover shadow-md md:order-1"
           referrerPolicy="no-referrer"

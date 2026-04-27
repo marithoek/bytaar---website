@@ -44,7 +44,7 @@ export default function CustomWork() {
               <h3 className="text-xl md:text-2xl font-bold text-light-brown mb-2 md:mb-3">Stap 1 - Kennismaking</h3>
               <p className="text-sm md:text-base text-text-light">We beginnen met een gesprek waarin je vertelt wat je zoekt. Waar ga je de tas voor gebruiken, wat vind je mooi, en welke details zijn belangrijk?</p>
             </div>
-            <img src="https://picsum.photos/seed/step1/1200/400" alt="Kennismaking" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
+            <img src="/images/customwork/stap1.jpeg" alt="Kennismaking" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
           </div>
 
           <div className="space-y-4 md:space-y-6">
@@ -52,7 +52,7 @@ export default function CustomWork() {
               <h3 className="text-xl md:text-2xl font-bold text-light-brown mb-2 md:mb-3">Stap 2 - Ontwerp</h3>
               <p className="text-sm md:text-base text-text-light">Op basis daarvan maak ik een ontwerp en denk ik mee over materialen en kleuren. Je kunt verschillende opties bekijken om te zien wat het beste past.</p>
             </div>
-            <img src="https://picsum.photos/seed/step2/1200/400" alt="Ontwerp" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
+            <img src="/images/customwork/stap2.jpeg" alt="Ontwerp" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
           </div>
 
           <div className="space-y-4 md:space-y-6">
@@ -60,7 +60,7 @@ export default function CustomWork() {
               <h3 className="text-xl md:text-2xl font-bold text-light-brown mb-2 md:mb-3">Stap 3 - Creatie</h3>
               <p className="text-sm md:text-base text-text-light">Als alles duidelijk is, ga ik aan de slag. Tijdens het maken houd ik je op de hoogte, zodat je kunt zien hoe jouw tas ontstaat.</p>
             </div>
-            <img src="https://picsum.photos/seed/step3/1200/400" alt="Creatie" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
+            <img src="/images/customwork/stap3.jpeg" alt="Creatie" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
           </div>
 
           <div className="space-y-4 md:space-y-6">
@@ -68,7 +68,7 @@ export default function CustomWork() {
               <h3 className="text-xl md:text-2xl font-bold text-light-brown mb-2 md:mb-3">Stap 4 - Afronding</h3>
               <p className="text-sm md:text-base text-text-light">Als de tas klaar is, is hij helemaal van jou. Je krijgt er uitleg bij over hoe je hem het beste kunt onderhouden.</p>
             </div>
-            <img src="https://picsum.photos/seed/step4/1200/400" alt="Afronding" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
+            <img src="/images/customwork/stap4.jpeg" alt="Afronding" className="w-full h-48 md:h-64 object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
           </div>
         </div>
       </div>
@@ -92,8 +92,8 @@ export default function CustomWork() {
       </div>
 
       <div className="grid grid-cols-2 gap-3 md:gap-4">
-        <img src="https://picsum.photos/seed/before/600/600" alt="Voor" className="w-full aspect-square object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
-        <img src="https://picsum.photos/seed/after/600/600" alt="Na" className="w-full aspect-square object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
+        <img src="/images/customwork/sfeer1.jpeg" alt="Voor" className="w-full aspect-square object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
+        <img src="/images/customwork/sfeer2.jpeg" alt="Na" className="w-full aspect-square object-cover rounded-lg shadow-md" referrerPolicy="no-referrer" />
       </div>
 
       <div className="bg-sage-green p-8 md:p-12 rounded-lg text-center text-white space-y-5 md:space-y-6">

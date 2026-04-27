@@ -11,7 +11,7 @@ export default function Home() {
     >
       <section className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden flex items-center justify-center">
         <img
-          src="/images/banner4.webp"
+          src="/images/home/banner.jpeg"
           alt="Leren tassen hero"
           className="absolute inset-0 w-full h-full object-cover z-0"
           referrerPolicy="no-referrer"
@@ -42,7 +42,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-white p-10 rounded-lg flex flex-col items-center text-center gap-5 shadow-sm">
             <img
-              src="https://picsum.photos/seed/handmade/300/300"
+              src="/images/home/handgemaakt.jpeg"
               alt="Handgemaakt"
               className="w-32 h-32 rounded-full object-cover"
               referrerPolicy="no-referrer"
@@ -58,7 +58,7 @@ export default function Home() {
           </div>
           <div className="bg-white p-10 rounded-lg flex flex-col items-center text-center gap-5 shadow-sm">
             <img
-              src="https://picsum.photos/seed/leather/300/300"
+              src="/images/home/leer.jpeg"
               alt="Duurzaam"
               className="w-32 h-32 rounded-full object-cover"
               referrerPolicy="no-referrer"
@@ -74,7 +74,7 @@ export default function Home() {
           </div>
           <div className="bg-white p-10 rounded-lg flex flex-col items-center text-center gap-5 shadow-sm">
             <img
-              src="https://picsum.photos/seed/custom/300/300"
+              src="/images/home/opmaat.jpeg"
               alt="Op Maat"
               className="w-32 h-32 rounded-full object-cover"
               referrerPolicy="no-referrer"
