@@ -32,10 +32,11 @@ export const products: Product[] = [
       'Volledig gevoerd met katoenen stof'
     ],
     images: [
-      '/images/collection/schoudertas.jpeg',
-      '/images/productdetail/klassieke_schoudertas_detail1.jpeg',
-      '/images/productdetail/klassieke_schoudertas_detail2.jpeg',
-      '/images/productdetail/klassieke_schoudertas_detail3.jpeg'
+      '/images/collection/schoudertasgr1.jpeg',
+      '/images/collection/schoudertasgr2.jpeg',
+      '/images/collection/schoudertasgr3.jpeg',
+      '/images/collection/schoudertasgr4.jpeg',
+      '/images/collection/schoudertasgr5.jpeg'
     ]
   },
   {
