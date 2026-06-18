@@ -57,8 +57,8 @@ export const products: Product[] = [
       'Metalen hardware in brons'
     ],
     images: [
-      '/images/collection/foto6.5.jpg',
-      '/images/productdetail/foto6.5.jpg'
+      '/images/collection/rugzak.jpeg',
+      '/images/productdetail/rugzak_detail1.jpeg'
     ]
   },
   {
@@ -80,8 +80,8 @@ export const products: Product[] = [
       'Handgenaaide hengsels'
     ],
     images: [
-      '/images/collection/foto6.5.jpg',
-      '/images/productdetail/foto6.5.jpg'
+      '/images/collection/tote.jpeg',
+      '/images/productdetail/tote_detail1.jpeg'
     ]
   },
   {
@@ -103,7 +103,8 @@ export const products: Product[] = [
       'Volledig gevoerd'
     ],
     images: [
-      '/images/collection/foto6.5.jpg'
+      '/images/collection/crossbody.jpeg',
+      '/images/productdetail/crossbody_detail1.jpeg'
     ]
   },
   {
@@ -125,7 +126,75 @@ export const products: Product[] = [
       'Volledig gevoerd met beschermend materiaal'
     ],
     images: [
-      '/images/collection/foto6.5.jpg'
+      '/images/collection/laptoptas.jpeg',
+      '/images/productdetail/laptoptas_detail1.jpeg'
+    ]
+  },
+  {
+    id: '6',
+    name: 'Weekendtas',
+    description: 'Ruime weekendtas voor al je spullen tijdens een kort uitje.',
+    fullDescription: 'Ruime weekendtas voor al je spullen tijdens een kort uitje. Deze tas biedt volop ruimte voor kleding, schoenen en al je benodigdheden voor een weekendje weg. Het klassieke design maakt hem geschikt voor elke gelegenheid.',
+    material: 'koeienleer',
+    type: 'weekendtas',
+    size: 'groot',
+    colors: ['bruin', 'naturel', 'cognac', 'zwart'],
+    dimensions: 'Breedte: 50 cm, Hoogte: 30 cm, Diepte: 25 cm',
+    features: [
+      'Extra ruime hoofdindeling',
+      'Ritssluiting met dubbele ritsen',
+      'Binnenvak met rits voor waardevolle spullen',
+      'Zijvakken voor schoenen of extra spullen',
+      'Stevige handgrepen en schouderband',
+      'Versterkte bodem voor stabiliteit',
+      'Volledig gevoerd'
+    ],
+    images: [
+      '/images/collection/weekendtas.jpeg',
+      '/images/productdetail/weekendtas_detail1.jpeg'
+    ]
+  },
+  {
+    id: '7',
+    name: 'Elegante Heuptas',
+    description: 'Stijlvolle en compacte heuptas, ideaal voor festivals en wandelingen.',
+    fullDescription: 'Een stijlvolle en compacte heuptas, ideaal voor festivals, wandelingen of dagelijks gebruik. Handgemaakt van hoogwaardig leer met een verstelbare riem zodat je de tas zowel om je heup als crossbody kunt dragen.',
+    material: 'koeienleer',
+    type: 'heuptas',
+    size: 'klein',
+    colors: ['zwart', 'cognac', 'olijfgroen'],
+    dimensions: 'Breedte: 20 cm, Hoogte: 12 cm, Diepte: 5 cm',
+    features: [
+      'Verstelbare riem met stevige gesp',
+      'Hoofdvak met ritssluiting',
+      'Handig achtervak met rits voor extra veiligheid',
+      'Volledig gevoerd'
+    ],
+    images: [
+      '/images/collection/heuptas.jpeg',
+      '/images/productdetail/heuptas_detail1.jpeg'
+    ]
+  },
+  {
+    id: '8',
+    name: 'Klassieke Handtas',
+    description: 'Chique handtas met een stevige vormgeving, perfect voor formele gelegenheden.',
+    fullDescription: 'Een chique en stevig vormgegeven handtas voor formele gelegenheden of een elegante alledaagse look. Gemaakt van stevig leer dat zijn vorm optimaal behoudt, voorzien van comfortabele handvatten en een afneembare schouderband.',
+    material: 'koeienleer',
+    type: 'handtas',
+    size: 'middel',
+    colors: ['zwart', 'donkerbruin', 'bordeaux'],
+    dimensions: 'Breedte: 28 cm, Hoogte: 22 cm, Diepte: 10 cm',
+    features: [
+      'Comfortabele dubbele handgrepen',
+      'Afneembare en verstelbare schouderband',
+      'Hoofdvak met veilige ritssluiting',
+      'Binnenvak met rits en handige steekvakken',
+      'Metalen beschermnoppen aan de onderkant'
+    ],
+    images: [
+      '/images/collection/handtas.jpeg',
+      '/images/productdetail/handtas_detail1.jpeg'
     ]
   }
 ];
