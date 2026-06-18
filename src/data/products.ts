@@ -33,7 +33,6 @@ export const products: Product[] = [
     ],
     images: [
       '/images/collection/schoudertasgr1.jpeg',
-      '/images/collection/schoudertasgr2.jpeg',
       '/images/collection/schoudertasgr3.jpeg',
       '/images/collection/schoudertasgr4.jpeg',
       '/images/collection/schoudertasgr5.jpeg'
