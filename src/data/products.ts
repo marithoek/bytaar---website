@@ -57,8 +57,9 @@ export const products: Product[] = [
       'Metalen hardware in brons'
     ],
     images: [
-      '/images/collection/rugzak.jpeg',
-      '/images/productdetail/rugzak_detail1.jpeg'
+      '/images/collection/schoudertaskoe1.jpeg',
+      '/images/collection/schoudertaskoe2.jpeg',
+      '/images/collection/schoudertaskoe3.jpeg'
     ]
   },
   {
@@ -80,8 +81,11 @@ export const products: Product[] = [
       'Handgenaaide hengsels'
     ],
     images: [
-      '/images/collection/tote.jpeg',
-      '/images/productdetail/tote_detail1.jpeg'
+      '/images/collection/rugzaklotr1.jpeg',
+      '/images/collection/rugzaklotr2.jpeg',
+      '/images/collection/rugzaklotr3.jpeg',
+      '/images/collection/rugzaklotr5.jpeg',
+      '/images/collection/rugzaklotr4.jpeg'
     ]
   },
   {
@@ -103,8 +107,8 @@ export const products: Product[] = [
       'Volledig gevoerd'
     ],
     images: [
-      '/images/collection/crossbody.jpeg',
-      '/images/productdetail/crossbody_detail1.jpeg'
+      '/images/collection/schoudertaszwart2.1.jpeg',
+      '/images/collection/schoudertaszwart2.2.jpeg'
     ]
   },
   {
@@ -126,8 +130,8 @@ export const products: Product[] = [
       'Volledig gevoerd met beschermend materiaal'
     ],
     images: [
-      '/images/collection/laptoptas.jpeg',
-      '/images/productdetail/laptoptas_detail1.jpeg'
+      '/images/collection/schoudertasgeel1.jpeg',
+      '/images/collection/schoudertasgeel2.jpeg'
     ]
   },
   {
@@ -150,8 +154,9 @@ export const products: Product[] = [
       'Volledig gevoerd'
     ],
     images: [
-      '/images/collection/weekendtas.jpeg',
-      '/images/productdetail/weekendtas_detail1.jpeg'
+      '/images/collection/schoudertasdonkgr1.jpeg',
+      '/images/collection/schoudertasdonkgr2.jpeg',
+      '/images/collection/schoudertasdonkgr3.jpeg'
     ]
   },
   {
@@ -171,8 +176,10 @@ export const products: Product[] = [
       'Volledig gevoerd'
     ],
     images: [
-      '/images/collection/heuptas.jpeg',
-      '/images/productdetail/heuptas_detail1.jpeg'
+      '/images/collection/schoudertasgroen1.jpeg',
+      '/images/collection/schoudertasgroen2.jpeg',
+      '/images/collection/schoudertasgroen3.jpeg',
+      '/images/collection/schoudertasgroen4.jpeg'
     ]
   },
   {
@@ -193,8 +200,10 @@ export const products: Product[] = [
       'Metalen beschermnoppen aan de onderkant'
     ],
     images: [
-      '/images/collection/handtas.jpeg',
-      '/images/productdetail/handtas_detail1.jpeg'
+      '/images/collection/schoudertaszw1.jpeg',
+      '/images/collection/schoudertaszw2.jpeg',
+      '/images/collection/schoudertaszw3.jpeg',
+      '/images/collection/schoudertaszw4.jpeg'
     ]
   }
 ];
