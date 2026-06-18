@@ -32,9 +32,10 @@ export const products: Product[] = [
       'Volledig gevoerd met katoenen stof'
     ],
     images: [
-      'https://picsum.photos/seed/bag1/800/600',
-      'https://picsum.photos/seed/bag1-2/800/600',
-      'https://picsum.photos/seed/bag1-3/800/600'
+      '/images/collection/schoudertas.jpeg',
+      '/images/productdetail/klassieke_schoudertas_detail1.jpeg',
+      '/images/productdetail/klassieke_schoudertas_detail2.jpeg',
+      '/images/productdetail/klassieke_schoudertas_detail3.jpeg'
     ]
   },
   {
@@ -56,8 +57,8 @@ export const products: Product[] = [
       'Metalen hardware in brons'
     ],
     images: [
-      'https://picsum.photos/seed/backpack/800/600',
-      'https://picsum.photos/seed/backpack2/800/600'
+      '/images/collection/foto6.5.jpg',
+      '/images/productdetail/foto6.5.jpg'
     ]
   },
   {
@@ -79,15 +80,15 @@ export const products: Product[] = [
       'Handgenaaide hengsels'
     ],
     images: [
-      'https://picsum.photos/seed/tote/800/600',
-      'https://picsum.photos/seed/tote2/800/600'
+      '/images/collection/foto6.5.jpg',
+      '/images/productdetail/foto6.5.jpg'
     ]
   },
   {
     id: '4',
     name: 'Crossbody Tas',
     description: 'Compacte crossbody tas, perfect voor reizen of een avondje uit.',
-    fullDescription: 'Compacte crossbody tas, perfect voor reizen of een avondje uit. Deze handige tas laat je handen vrij terwijl je al je essentials veilig bij je draagt. Het compacte formaat maakt hem ideaal voor stedentrips en festivals.',
+    fullDescription: 'Compacte crossbody tas, perfect voor reizen of een avondje uit. Deze handige tas laat je hands vrij terwijl je al je essentials veilig bij je draagt. Het compacte formaat maakt hem ideaal voor stedentrips en festivals.',
     material: 'koeienleer',
     type: 'crossbody',
     size: 'klein',
@@ -102,7 +103,7 @@ export const products: Product[] = [
       'Volledig gevoerd'
     ],
     images: [
-      'https://picsum.photos/seed/crossbody/800/600'
+      '/images/collection/foto6.5.jpg'
     ]
   },
   {
@@ -124,30 +125,7 @@ export const products: Product[] = [
       'Volledig gevoerd met beschermend materiaal'
     ],
     images: [
-      'https://picsum.photos/seed/laptop/800/600'
-    ]
-  },
-  {
-    id: '6',
-    name: 'Weekendtas',
-    description: 'Ruime weekendtas voor al je spullen tijdens een kort uitje.',
-    fullDescription: 'Ruime weekendtas voor al je spullen tijdens een kort uitje. Deze tas biedt volop ruimte voor kleding, schoenen en al je benodigdheden voor een weekendje weg. Het klassieke design maakt hem geschikt voor elke gelegenheid.',
-    material: 'koeienleer',
-    type: 'weekendtas',
-    size: 'groot',
-    colors: ['bruin', 'naturel', 'cognac', 'zwart'],
-    dimensions: 'Breedte: 50 cm, Hoogte: 30 cm, Diepte: 25 cm',
-    features: [
-      'Extra ruime hoofdindeling',
-      'Ritssluiting met dubbele ritsen',
-      'Binnenvak met rits voor waardevolle spullen',
-      'Zijvakken voor schoenen of natte spullen',
-      'Stevige handgrepen en schouderband',
-      'Versterkte bodem voor stabiliteit',
-      'Volledig gevoerd'
-    ],
-    images: [
-      'https://picsum.photos/seed/weekend/800/600'
+      '/images/collection/foto6.5.jpg'
     ]
   }
 ];
