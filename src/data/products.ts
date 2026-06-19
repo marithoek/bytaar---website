@@ -16,20 +16,16 @@ export interface Product {
 export const products: Product[] = [
   {
     id: '1',
-    name: 'Klassieke Schoudertas',
-    description: 'Een tijdloze schoudertas met ruime indeling, perfect voor dagelijks gebruik.',
-    fullDescription: 'Een tijdloze schoudertas met ruime indeling, perfect voor dagelijks gebruik. Deze tas combineert functionaliteit met elegantie en wordt volledig met de hand gemaakt van premium leer.',
+    name: 'Crossbody grijs',
+    description: 'Een grijze schoudertas, perfect voor dagelijks gebruik of een avondje uit.',
+    fullDescription: 'Deze tas is gemaakt om je kleine spuillen, zoals telefoons, comfortabel naar mee te nemen',
     material: 'koeienleer',
-    type: 'schoudertas',
-    size: 'middel',
-    colors: ['cognac', 'zwart', 'donkerbruin', 'naturel'],
+    type: 'crossbody',
+    size: 'klein',
+    colors: ['grijs'],
     dimensions: 'Breedte: 35 cm, Hoogte: 28 cm, Diepte: 12 cm',
     features: [
-      'Verstelbare schouderband',
-      'Magnetische sluiting',
-      'Binnenvak met rits',
-      '2 open binnenvakken',
-      'Volledig gevoerd met katoenen stof'
+      'Verstelbare schouderband'
     ],
     images: [
       '/images/collection/schoudertasgr1.jpeg',
@@ -40,21 +36,17 @@ export const products: Product[] = [
   },
   {
     id: '2',
-    name: 'Vintage Rugzak',
-    description: 'Stijlvolle rugzak met vintage uitstraling en praktische vakken.',
-    fullDescription: 'Stijlvolle rugzak met vintage uitstraling en praktische vakken. Perfect voor dagelijks gebruik, reizen of een dag in de natuur. De combinatie van robuust leer en doordacht design maakt deze rugzak tot een betrouwbare metgezel.',
+    name: 'Crossbody met koehuid',
+    description: 'Stijlvolle crossbody met een zachte buitenkant',
+    fullDescription: 'Stijlvolle crossbody. Perfect voor dagelijks gebruik.',
     material: 'koeienleer',
-    type: 'rugzak',
-    size: 'groot',
-    colors: ['bruin', 'grijs', 'olijfgroen', 'zwart'],
+    type: 'crossbody',
+    size: 'middel',
+    colors: ['bruin', 'wit'],
     dimensions: 'Breedte: 30 cm, Hoogte: 40 cm, Diepte: 15 cm',
     features: [
-      'Gewatteerde laptopsleeve (tot 15 inch)',
-      'Trekkoord sluiting met gesp',
-      'Voorvak met rits',
-      'Zijvakken voor waterfles',
-      'Gevoerd interieur',
-      'Metalen hardware in brons'
+      'Verstelbare schouderband',
+      'Ritssluiting'
     ],
     images: [
       '/images/collection/schoudertaskoe1.jpeg',
@@ -64,21 +56,19 @@ export const products: Product[] = [
   },
   {
     id: '3',
-    name: 'Minimalistische Tote',
-    description: 'Een clean design totebag, ideaal voor werk of boodschappen.',
-    fullDescription: 'Een clean design totebag, ideaal voor werk of boodschappen. Deze veelzijdige tas heeft een tijdloos design dat bij elke gelegenheid past. De ruime vorm biedt veel opbergruimte terwijl het minimalistische design voor een elegante uitstraling zorgt.',
+    name: 'Rugzak',
+    description: 'Een mooie rugzak, ideaal voor werk en reizen.',
+    fullDescription: 'Voor deze rugzak is inspiratie gedaan uit de film Lord of the Rings. De ruime vorm biedt veel opbergruimte terwijl het met de gespen voor een elegante uitstraling zorgt.',
     material: 'koeienleer',
-    type: 'tote',
+    type: 'rugzak',
     size: 'groot',
-    colors: ['naturel', 'cognac', 'donkerblauw', 'zwart'],
+    colors: ['grijs'],
     dimensions: 'Breedte: 38 cm, Hoogte: 35 cm, Diepte: 10 cm',
     features: [
-      'Open bovenkant',
-      'Optioneel: magnetische drukknop sluiting',
-      'Binnenvak met rits voor waardevolle spullen',
-      '2 open binnenvakken voor telefoon en sleutels',
-      'Stevige bodem',
-      'Handgenaaide hengsels'
+      'Grote vak sluitbaar met rits',
+      'Gespen voor het grote en het kleine vak',
+      'Verstelbare schouderbanden',
+      'Binnenvak met rits voor waardevolle spullen'
     ],
     images: [
       '/images/collection/rugzaklotr1.jpeg',
@@ -90,21 +80,17 @@ export const products: Product[] = [
   },
   {
     id: '4',
-    name: 'Crossbody Tas',
-    description: 'Compacte crossbody tas, perfect voor reizen of een avondje uit.',
-    fullDescription: 'Compacte crossbody tas, perfect voor reizen of een avondje uit. Deze handige tas laat je hands vrij terwijl je al je essentials veilig bij je draagt. Het compacte formaat maakt hem ideaal voor stedentrips en festivals.',
+    name: 'Crossbody zwart',
+    description: 'Compacte crossbody tas, perfect voor dagelijks gebruik.',
+    fullDescription: 'Deze handige tas laat je hands vrij terwijl je al je essentials veilig bij je draagt. Het compacte formaat maakt hem ideaal voor dagelijks gebruik.',
     material: 'koeienleer',
     type: 'crossbody',
-    size: 'klein',
-    colors: ['zwart', 'cognac', 'donkerbruin', 'olijfgroen'],
+    size: 'middel',
+    colors: ['zwart'],
     dimensions: 'Breedte: 22 cm, Hoogte: 16 cm, Diepte: 7 cm',
     features: [
-      'Verstelbare crossbody band',
-      'Ritssluiting',
-      'Binnenvak voor telefoon',
-      'Voorvak met ritssluiting',
-      'Veilige binnenzak met rits',
-      'Volledig gevoerd'
+      'Verstelbare schouderband',
+      'Ritssluiting'
     ],
     images: [
       '/images/collection/schoudertaszwart2.1.jpeg',
@@ -113,21 +99,17 @@ export const products: Product[] = [
   },
   {
     id: '5',
-    name: 'Laptop Tas',
-    description: 'Professionele laptoptas met gewatteerde laptop bescherming tot 15 inch.',
-    fullDescription: 'Professionele laptoptas met gewatteerde laptop bescherming tot 15 inch. Combineer stijl met functionaliteit voor het werk of onderweg. Deze tas biedt uitstekende bescherming voor je apparatuur met een professionele uitstraling.',
+    name: 'Crossbody geel',
+    description: 'Professionele gele crossbody, voor een beetje kleur in het leven.',
+    fullDescription: 'Deze tas combineert stijl met functionaliteit voor het werk of dagelijkse bezigheden.',
     material: 'koeienleer',
-    type: 'laptoptas',
+    type: 'crossbody',
     size: 'middel',
-    colors: ['zwart', 'cognac', 'donkerbruin'],
+    colors: ['geel'],
     dimensions: 'Breedte: 38 cm, Hoogte: 28 cm, Diepte: 10 cm',
     features: [
-      'Gewatteerde laptopsleeve (tot 15 inch)',
-      'Ritssluiting met extra beveiliging',
-      'Voorvak voor documenten en accessoires',
-      'Binnenvakken voor tablet en telefoon',
-      'Verstelbare schouderband en handgrepen',
-      'Volledig gevoerd met beschermend materiaal'
+      'Verstelbare schouderband',
+      'Ritssluiting met gesp'
     ],
     images: [
       '/images/collection/schoudertasgeel1.jpeg',
@@ -136,22 +118,17 @@ export const products: Product[] = [
   },
   {
     id: '6',
-    name: 'Weekendtas',
+    name: 'Crossbody donkergroen',
     description: 'Ruime weekendtas voor al je spullen tijdens een kort uitje.',
     fullDescription: 'Ruime weekendtas voor al je spullen tijdens een kort uitje. Deze tas biedt volop ruimte voor kleding, schoenen en al je benodigdheden voor een weekendje weg. Het klassieke design maakt hem geschikt voor elke gelegenheid.',
     material: 'koeienleer',
-    type: 'weekendtas',
-    size: 'groot',
-    colors: ['bruin', 'naturel', 'cognac', 'zwart'],
+    type: 'crossbody',
+    size: 'middel',
+    colors: ['groen'],
     dimensions: 'Breedte: 50 cm, Hoogte: 30 cm, Diepte: 25 cm',
     features: [
-      'Extra ruime hoofdindeling',
-      'Ritssluiting met dubbele ritsen',
-      'Binnenvak met rits voor waardevolle spullen',
-      'Zijvakken voor schoenen of extra spullen',
-      'Stevige handgrepen en schouderband',
-      'Versterkte bodem voor stabiliteit',
-      'Volledig gevoerd'
+      'Verstelbare schouderband',
+      'Ritssluiting'
     ],
     images: [
       '/images/collection/schoudertasdonkgr1.jpeg',
@@ -161,19 +138,17 @@ export const products: Product[] = [
   },
   {
     id: '7',
-    name: 'Elegante Heuptas',
-    description: 'Stijlvolle en compacte heuptas, ideaal voor festivals en wandelingen.',
-    fullDescription: 'Een stijlvolle en compacte heuptas, ideaal voor festivals, wandelingen of dagelijks gebruik. Handgemaakt van hoogwaardig leer met een verstelbare riem zodat je de tas zowel om je heup als crossbody kunt dragen.',
+    name: 'Crossbody groen',
+    description: 'Stijlvolle en compacte crossbody, ideaal voor beide werk en festivals.',
+    fullDescription: 'Met deze tas kan je vrolijkheid en kleur brengen aan jouw leven en die van anderen.',
     material: 'koeienleer',
-    type: 'heuptas',
-    size: 'klein',
-    colors: ['zwart', 'cognac', 'olijfgroen'],
+    type: 'crossbody',
+    size: 'middel',
+    colors: ['groen'],
     dimensions: 'Breedte: 20 cm, Hoogte: 12 cm, Diepte: 5 cm',
     features: [
-      'Verstelbare riem met stevige gesp',
-      'Hoofdvak met ritssluiting',
-      'Handig achtervak met rits voor extra veiligheid',
-      'Volledig gevoerd'
+      'Verstelbare schouderband',
+      'Ritssluiting'
     ],
     images: [
       '/images/collection/schoudertasgroen1.jpeg',
@@ -184,20 +159,17 @@ export const products: Product[] = [
   },
   {
     id: '8',
-    name: 'Klassieke Handtas',
-    description: 'Chique handtas met een stevige vormgeving, perfect voor formele gelegenheden.',
-    fullDescription: 'Een chique en stevig vormgegeven handtas voor formele gelegenheden of een elegante alledaagse look. Gemaakt van stevig leer dat zijn vorm optimaal behoudt, voorzien van comfortabele handvatten en een afneembare schouderband.',
+    name: 'Crossbody zwart',
+    description: 'Chique handtas met een stevige vormgeving, perfect voor alle soorten gelegenheden.',
+    fullDescription: 'Deze tas is gemaakt voor een elegante alledaagse look.',
     material: 'koeienleer',
-    type: 'handtas',
+    type: 'crossbody',
     size: 'middel',
-    colors: ['zwart', 'donkerbruin', 'bordeaux'],
+    colors: ['zwart', 'wit'],
     dimensions: 'Breedte: 28 cm, Hoogte: 22 cm, Diepte: 10 cm',
     features: [
-      'Comfortabele dubbele handgrepen',
-      'Afneembare en verstelbare schouderband',
-      'Hoofdvak met veilige ritssluiting',
-      'Binnenvak met rits en handige steekvakken',
-      'Metalen beschermnoppen aan de onderkant'
+      'Verstelbare schouderband',
+      'Ritssluiting'
     ],
     images: [
       '/images/collection/schoudertaszw1.jpeg',
