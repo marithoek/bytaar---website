@@ -23,7 +23,7 @@ export const products: Product[] = [
     type: 'crossbody',
     size: 'klein',
     colors: ['grijs'],
-    dimensions: 'Breedte: 35 cm, Hoogte: 28 cm, Diepte: 12 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Verstelbare schouderband'
     ],
@@ -43,7 +43,7 @@ export const products: Product[] = [
     type: 'crossbody',
     size: 'middel',
     colors: ['bruin', 'wit'],
-    dimensions: 'Breedte: 30 cm, Hoogte: 40 cm, Diepte: 15 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Verstelbare schouderband',
       'Ritssluiting'
@@ -63,7 +63,7 @@ export const products: Product[] = [
     type: 'rugzak',
     size: 'groot',
     colors: ['grijs'],
-    dimensions: 'Breedte: 38 cm, Hoogte: 35 cm, Diepte: 10 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Grote vak sluitbaar met rits',
       'Gespen voor het grote en het kleine vak',
@@ -87,7 +87,7 @@ export const products: Product[] = [
     type: 'crossbody',
     size: 'middel',
     colors: ['zwart'],
-    dimensions: 'Breedte: 22 cm, Hoogte: 16 cm, Diepte: 7 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Verstelbare schouderband',
       'Ritssluiting'
@@ -106,7 +106,7 @@ export const products: Product[] = [
     type: 'crossbody',
     size: 'middel',
     colors: ['geel'],
-    dimensions: 'Breedte: 38 cm, Hoogte: 28 cm, Diepte: 10 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Verstelbare schouderband',
       'Ritssluiting met gesp'
@@ -125,7 +125,7 @@ export const products: Product[] = [
     type: 'crossbody',
     size: 'middel',
     colors: ['groen'],
-    dimensions: 'Breedte: 50 cm, Hoogte: 30 cm, Diepte: 25 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Verstelbare schouderband',
       'Ritssluiting'
@@ -145,7 +145,7 @@ export const products: Product[] = [
     type: 'crossbody',
     size: 'middel',
     colors: ['groen'],
-    dimensions: 'Breedte: 20 cm, Hoogte: 12 cm, Diepte: 5 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Verstelbare schouderband',
       'Ritssluiting'
@@ -166,7 +166,7 @@ export const products: Product[] = [
     type: 'crossbody',
     size: 'middel',
     colors: ['zwart', 'wit'],
-    dimensions: 'Breedte: 28 cm, Hoogte: 22 cm, Diepte: 10 cm',
+    dimensions: 'Groottematen worden binnen een week geplaatst',
     features: [
       'Verstelbare schouderband',
       'Ritssluiting'
