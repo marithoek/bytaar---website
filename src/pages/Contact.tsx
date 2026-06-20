@@ -26,7 +26,7 @@ export default function Contact() {
               <div className="space-y-6 text-text-light">
                 <div className="flex flex-col border-l-4 border-sage-green pl-4">
                   <span className="text-xs uppercase tracking-widest text-sage-green font-bold mb-1">Naam</span>
-                  <span className="text-xl font-bold text-text-dark">Tara Visser - bytaar</span>
+                  <span className="text-xl font-bold text-text-dark">Tara Visser - ByTaar</span>
                 </div>
                 
                 <div className="flex flex-col border-l-4 border-sage-green/30 pl-4">
