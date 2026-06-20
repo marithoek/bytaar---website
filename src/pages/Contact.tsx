@@ -31,8 +31,8 @@ export default function Contact() {
                 
                 <div className="flex flex-col border-l-4 border-sage-green/30 pl-4">
                   <span className="text-xs uppercase tracking-widest text-sage-green font-bold mb-1">E-mail</span>
-                  <a href="mailto:tara.visser@hotmail.com" className="text-lg hover:text-sage-green transition-colors font-medium">
-                    tara.visser@hotmail.com
+                  <a href="mailto:infobytaar@gmail.com" className="text-lg hover:text-sage-green transition-colors font-medium">
+                    infobytaar@gmail.com
                   </a>
                 </div>
 
