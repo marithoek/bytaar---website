@@ -13,7 +13,7 @@ const slides: CarouselSlide[] = [
   {
     image: "/images/herinneringsknuffels/knuffels.jpeg",
     title: "Gemaakt van oude kleding",
-    subtitle: "Genaaid uit het vertrouwde geruite hemd, favoriete vest of jasje van een geliefde.",
+    subtitle: "Genaaid uit het het vetrouwde hemd en vest van een geliefde.",
   },
 ];
 
