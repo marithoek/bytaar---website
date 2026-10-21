@@ -11,24 +11,9 @@ interface CarouselSlide {
 
 const slides: CarouselSlide[] = [
   {
-    image: "/src/assets/images/herinnering_beer_baby_1792425701099.jpg",
-    title: "Gemaakt van babykleding & rompertjes",
-    subtitle: "Van de allerkleinste eerste pakjes tot een blijvend aandenken aan de babytijd.",
-  },
-  {
-    image: "/src/assets/images/herinnering_beer_kleding_1792425701495.jpg",
-    title: "Troost & herinnering aan een overleden dierbare",
+    image: "/images/herinneringsknuffels/knuffels.jpeg",
+    title: "Gemaakt van oude kleding",
     subtitle: "Genaaid uit het vertrouwde geruite hemd, favoriete vest of jasje van een geliefde.",
-  },
-  {
-    image: "/src/assets/images/herinnering_beer_detail_1792425701791.jpg",
-    title: "Aandacht voor elk detail en originele elementen",
-    subtitle: "Originele knoopjes, stiksels en labels worden met zorg en respect verwerkt.",
-  },
-  {
-    image: "/src/assets/images/herinnering_beer_paar_1792425702353.jpg",
-    title: "Knuffels en vormen op maat",
-    subtitle: "Van klassieke beren tot zachte haasjes, geheel afgestemd op jouw wensen.",
   },
 ];
 
