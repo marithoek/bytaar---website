@@ -191,7 +191,7 @@ export default function Herinneringsknuffels() {
             <span className="inline-block w-8 h-8 rounded-full bg-sage-green text-white font-bold leading-8">1</span>
             <h3 className="font-bold text-text-dark text-lg">Kleding kiezen</h3>
             <p className="text-sm text-text-light">
-              Kies 1 tot 4 kledingstukken uit die voor jou een speciale herinnering dragen.
+              Kies een aantal kledingstukken uit die voor jou een speciale herinnering dragen.
             </p>
           </div>
           <div className="p-4 rounded-lg bg-off-white space-y-2">
