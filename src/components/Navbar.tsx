@@ -17,6 +17,7 @@ export default function Navbar() {
     { name: "Over Mij", path: "/over-mij" },
     { name: "Tassen", path: "/tassen" },
     { name: "Maatwerk", path: "/maatwerk" },
+    { name: "Herinneringsknuffels", path: "/herinneringsknuffels" },
     { name: "Contact", path: "/contact" },
   ];
 
