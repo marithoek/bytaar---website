@@ -7,6 +7,7 @@ import About from "./pages/About";
 import Collection from "./pages/Collection";
 import ProductDetail from "./pages/ProductDetail";
 import CustomWork from "./pages/CustomWork";
+import Herinneringsknuffels from "./pages/Herinneringsknuffels";
 import Contact from "./pages/Contact";
 
 function ScrollToTop() {
@@ -32,6 +33,7 @@ export default function App() {
             <Route path="/tassen" element={<Collection />} />
             <Route path="/tassen/:id" element={<ProductDetail />} />
             <Route path="/maatwerk" element={<CustomWork />} />
+            <Route path="/herinneringsknuffels" element={<Herinneringsknuffels />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
