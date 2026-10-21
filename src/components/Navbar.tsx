@@ -27,7 +27,7 @@ export default function Navbar() {
         <div className="w-full flex justify-between items-center md:justify-center">
           <Link to="/" onClick={() => setIsOpen(false)}>
             <img
-              src="/images/home/logo_bytaar.jpg"
+              src="/images/home/logo_bytaar2.png"
               alt="bytaar"
               className="max-w-[120px] md:max-w-[180px] h-auto rounded-sm shadow-sm"
               referrerPolicy="no-referrer"
